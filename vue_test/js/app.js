@@ -1,3 +1,3 @@
 function sayHi(){
-	window.alert("ok");
+	window.alert("ok!");
 }
