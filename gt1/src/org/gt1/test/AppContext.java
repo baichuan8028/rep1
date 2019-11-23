@@ -3,7 +3,7 @@ package org.gt1.test;
 public class AppContext {
 
 	/**
-	 * ¸üÐÂ
+	 * æµ‹è¯•æ›´æ–°
 	 * @param args
 	 */
 	public static void main(String[] args) {
